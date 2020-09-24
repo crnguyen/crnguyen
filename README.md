@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-crnguyen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristinanguyen/)](https://www.linkedin.com/in/cristinanguyen/) [![Gmail Badge](https://img.shields.io/badge/-c.nguyen0994@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:c.nguyen0994@gmail.com)](mailto:c.nguyen0994@gmail.com)
+
 <!--
 **crnguyen/crnguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
