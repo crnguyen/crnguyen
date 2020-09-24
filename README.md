@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 
 ![Cristina's github stats](https://github-readme-stats.vercel.app/api?username=crnguyen&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crnguyen&layout=compact)](https://github.com/crnguyen/github-readme-stats)
