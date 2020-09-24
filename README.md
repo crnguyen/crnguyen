@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Cristina's github stats](https://github-readme-stats.vercel.app/api?username=crnguyen&show_icons=true&count_private=true&theme=radical)](https://github.com/crnguyen/github-readme-stats)
+[![Cristina's github stats](https://github-readme-stats.vercel.app/api?username=crnguyen&show_icons=true&include_all_commits=true&count_private=true&theme=radical)](https://github.com/crnguyen/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crnguyen&layout=compact&theme=radical)](https://github.com/crnguyen/github-readme-stats)
 
