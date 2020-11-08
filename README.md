@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3>Connect With Me</h3>
+<h3>:zap: Connect With Me</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-crnguyen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristinanguyen/)](https://www.linkedin.com/in/cristinanguyen/) [![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@cristina-nguyen) [![Gmail Badge](https://img.shields.io/badge/-c.nguyen0994@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:c.nguyen0994@gmail.com)](mailto:c.nguyen0994@gmail.com) [![GitHub followers](https://img.shields.io/github/followers/crnguyen?label=Follow&style=social)](https://github.com/crnguyen/?tab=follow)
 
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 <details>
-    <summary> <b> Github Stats </b></summary>
+    <summary> <b>:zap: Github Stats </b></summary>
     <samp>
         <img align="middle"
             src="https://github-readme-stats.vercel.app/api?username=crnguyen&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=radical"/>
@@ -28,14 +28,14 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-    <summary> <b>  Most Used Languages </b></summary>
+    <summary> <b>:zap: Most Used Languages </b></summary>
     <samp>
         <img align="middle"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=crnguyen&hide_title=true&layout=compact&theme=radical" />
     </samp>
 </details>
 
-<h3>Tech Stack</h3>
+<h3>:zap: Tech Stack</h3>
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img alt="Python" src="https://img.shields.io/badge/-Python3-black?style=flat-square&logo=Python" />
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 </p>
 
 <details open>
-    <summary><b>Latest Medium Articles</b></summary>
+    <summary><b>:zap: Latest Medium Articles</b></summary>
     <samp>
     <a href="https://medium.com/@omidnikrah">
         <img style="display: inline-block" src="https://github-readme-medium.vercel.app/?username=cristina-nguyen&limit=4" />
