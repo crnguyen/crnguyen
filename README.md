@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     <summary> <b>:zap: Most Used Languages </b></summary>
     <samp>
         <img align="middle"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=crnguyen&hide_title=true&layout=compact&theme=radical" />
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=crnguyen&hide_title=true&hide=Jupyter%20Notebook&layout=compact&theme=radical" />
     </samp>
 </details>
 
