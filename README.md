@@ -35,8 +35,9 @@ Here are some ideas to get you started:
     </samp>
 </details>
 
-<h3>:zap: Tech Stack</h3>
-<p>
+<details>
+<summary>:zap: Tech Stack</summary>
+<samp>
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img alt="Python" src="https://img.shields.io/badge/-Python3-black?style=flat-square&logo=Python" />
   <img alt="Django" src="https://img.shields.io/badge/-Django-darkgreen?style=flat-square&logo=django" />
@@ -54,7 +55,8 @@ Here are some ideas to get you started:
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-</p>
+</samp>
+</details>
 
 <details open>
     <summary><b>:zap: Latest Medium Articles</b></summary>
