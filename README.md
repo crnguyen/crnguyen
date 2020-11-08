@@ -59,3 +59,12 @@ Here are some ideas to get you started:
     </a>
     </samp>
 </details>
+
+<!--
+<details>
+    <summary> get a random quote </summary>
+    <samp>
+        <img width="400px" height="200px" src="https://quotes-github-readme.vercel.app/api?type=horizontal" />
+        </samp
+</details>
+--->
