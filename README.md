@@ -1,5 +1,5 @@
 
-<h3>:zap: Connect With Me</h3>
+<h3>:handshake: Connect With Me</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-crnguyen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristinanguyen/)](https://www.linkedin.com/in/cristinanguyen/) [![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@cristina-nguyen) [![Gmail Badge](https://img.shields.io/badge/-c.nguyen0994@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:c.nguyen0994@gmail.com)](mailto:c.nguyen0994@gmail.com) [![GitHub followers](https://img.shields.io/github/followers/crnguyen?label=Follow&style=social)](https://github.com/crnguyen/?tab=follow)
 
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
     <summary><b>:zap: Latest Medium Articles</b></summary>
     <samp>
     <a href="https://medium.com/@omidnikrah">
-        <img style="display: inline-block" src="https://github-readme-medium.vercel.app/?username=cristina-nguyen&limit=4" />
+        <img style="display: inline-block" src="https://github-readme-medium.vercel.app/?username=cristina-nguyen&limit=4&theme=dracula" />
     </a>
     </samp>
 </details>
