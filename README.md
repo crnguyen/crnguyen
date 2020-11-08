@@ -20,7 +20,13 @@ Here are some ideas to get you started:
 
 [![Cristina's github stats](https://github-readme-stats.vercel.app/api?username=crnguyen&show_icons=true&include_all_commits=true&count_private=true&theme=radical)](https://github.com/crnguyen/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crnguyen&layout=compact&theme=radical)](https://github.com/crnguyen/github-readme-stats)
+<details>
+    <summary> <b> <samp> Most Used Languages </samp></b></summary>
+    <samp>
+        <img align="middle"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=crnguyen&hide_title=true&layout=compact&theme=radical" />
+    </samp>
+</details>
 
 <h3>Tech Stack</h3>
 <p>
