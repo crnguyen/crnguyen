@@ -21,9 +21,11 @@ Here are some ideas to get you started:
 <details>
     <summary> <b>:zap: Github Stats & Most Used Languages </b></summary>
     <samp>
-        <img align="middle" height="130px"
-            src="https://github-readme-stats.vercel.app/api?username=crnguyen&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&count_private=true&theme=radical"/><img align="middle" height="130px"
+        <p align="center">
+        <img align="" height="130px"
+            src="https://github-readme-stats.vercel.app/api?username=crnguyen&show_icons=true&hide_title=true&include_all_commits=true&hide=stars&line_height=21&count_private=true&theme=radical"/><img align="" height="130px"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=crnguyen&hide_title=true&hide=Jupyter%20Notebook&layout=compact&theme=radical" />
+        </p>
     </samp>
 </details>
 
