@@ -55,3 +55,12 @@ Here are some ideas to get you started:
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+
+<details open>
+    <summary><b>Latest Medium Articles</b></summary>
+    <samp>
+    <a href="https://medium.com/@omidnikrah">
+        <img style="display: inline-block" src="https://github-readme-medium.vercel.app/?username=cristina-nguyen&limit=4" />
+    </a>
+    </samp>
+</details>
