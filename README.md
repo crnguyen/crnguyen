@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h3>:zap: Connect With Me</h3>
 
@@ -36,7 +35,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-<summary>:zap: Tech Stack</summary>
+    <summary><b>:zap: Tech Stack </b></summary>
 <samp>
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img alt="Python" src="https://img.shields.io/badge/-Python3-black?style=flat-square&logo=Python" />
