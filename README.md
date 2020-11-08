@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-crnguyen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristinanguyen/)](https://www.linkedin.com/in/cristinanguyen/) [![Gmail Badge](https://img.shields.io/badge/-c.nguyen0994@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:c.nguyen0994@gmail.com)](mailto:c.nguyen0994@gmail.com) [![GitHub followers](https://img.shields.io/github/followers/crnguyen?label=Follow&style=social)](https://github.com/crnguyen/?tab=follow) 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=crnguyen" alt="visitor badge"/>
+<h3>Connect With Me</h3>
+
+[![Linkedin Badge](https://img.shields.io/badge/-crnguyen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristinanguyen/)](https://www.linkedin.com/in/cristinanguyen/) [![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@cristina-nguyen) [![Gmail Badge](https://img.shields.io/badge/-c.nguyen0994@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:c.nguyen0994@gmail.com)](mailto:c.nguyen0994@gmail.com) [![GitHub followers](https://img.shields.io/github/followers/crnguyen?label=Follow&style=social)](https://github.com/crnguyen/?tab=follow)
 
 <!--
 **crnguyen/crnguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,10 +19,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Cristina's github stats](https://github-readme-stats.vercel.app/api?username=crnguyen&show_icons=true&include_all_commits=true&count_private=true&theme=radical)](https://github.com/crnguyen/github-readme-stats)
+<details>
+    <summary> <b> Github Stats </b></summary>
+    <samp>
+        <img align="middle"
+            src="https://github-readme-stats.vercel.app/api?username=crnguyen&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=radical"/>
+    </samp>
+</details>
 
 <details>
-    <summary> <b> <samp> Most Used Languages </samp></b></summary>
+    <summary> <b>  Most Used Languages </b></summary>
     <samp>
         <img align="middle"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=crnguyen&hide_title=true&layout=compact&theme=radical" />
