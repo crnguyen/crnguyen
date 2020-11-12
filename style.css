@@ -14,7 +14,7 @@ body {
 } 
 
 .heading h1 { 
-    background: -webkit-linear-gradient(#eee, blue);
+    background: -webkit-linear-gradient(#eee,);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-size: 65px; 
