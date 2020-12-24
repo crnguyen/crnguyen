@@ -1,7 +1,5 @@
 <!--![AboutMe](aboutme.gif) -->
 
-<h3>:handshake: Connect</h3>
-
 [![Linkedin Badge](https://img.shields.io/badge/-crnguyen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristinanguyen/)](https://www.linkedin.com/in/cristinanguyen/) [![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@cristina-nguyen) [![Gmail Badge](https://img.shields.io/badge/-c.nguyen0994@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:c.nguyen0994@gmail.com)](mailto:c.nguyen0994@gmail.com) [![GitHub followers](https://img.shields.io/github/followers/crnguyen?label=Follow&style=social)](https://github.com/crnguyen/?tab=follow)
 
 <!--
