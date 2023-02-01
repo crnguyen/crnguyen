@@ -50,14 +50,6 @@ Here are some ideas to get you started:
 </samp>
 </details>
 
-<details open>
-    <summary><b>:zap: Latest Medium Articles</b></summary>
-    <samp>
-    <a href="https://medium.com/@omidnikrah">
-        <img style="display: inline-block" src="https://github-readme-medium.vercel.app/?username=cristina-nguyen&limit=4&theme=dracula" />
-    </a>
-    </samp>
-</details>
 
 <!--
 <details>
